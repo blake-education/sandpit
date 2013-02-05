@@ -1,5 +1,6 @@
 This is test 1
 This is to test CRLF issue in windows.(line 1)
+Hey look!  I stuck a line in here!
 This is to test CRLF issue in windows.(line 2)
 This was added by Martin using Macvim
 
