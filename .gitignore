@@ -1,0 +1,9 @@
+.DS_Store
+.bundle
+.config
+desktop.ini
+public/stylesheets/style.css
+
+node_modules
+var
+/nbproject/private/
