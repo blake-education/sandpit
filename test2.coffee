@@ -4,6 +4,7 @@
 # Playing around with Notepad++ EOL conversions.
 # This line was added before doing an EOL conversion to "Macintosh"
 # This line was added before doing an EOL conversion to "Windows"
+# New line because changing EOL formats from Macintosh to Windows will cause an entire code change.  So this should just be a line insertion for this one.
 # Like, maybe insert a new line between these previous lines to see if Github shows just the insertion or if it does the whole body of code again?
 
 #Making a change to see the updated
