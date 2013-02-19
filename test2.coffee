@@ -1,5 +1,5 @@
 # Here's a typical coffeescript file from Blake Education!
-# Multiple lines with this one so you can try adding stuff in between them to test the line endings.  2
+# Multiple lines with this one so you can try adding stuff in between them to test the line endings.
 # Another test
 # Playing around with Notepad++ EOL conversions.
 # This line was added before doing an EOL conversion to "Macintosh"
