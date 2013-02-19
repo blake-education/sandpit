@@ -6,9 +6,6 @@
 # change 3
 # This line was added before doing an EOL conversion to "Windows"
 # New line because changing EOL formats from Macintosh to Windows will cause an entire code change.  So this should just be a line insertion for this one.
-# And one more test for good measure... a conversion from "Windows" to "Unix" line endings using Edit>EOL conversion again.
-# This should be handled elegantly by Git during the push via the "autocrlf = true" setting.
-# New line without changing EOL format (still Unix)
 # Change 1
 # Like, maybe insert a new line between these previous lines to see if Github shows just the insertion or if it does the whole body of code again?
 
